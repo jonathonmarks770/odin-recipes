@@ -1,12 +1,12 @@
 body{
     margin: 0px;
+    display: block;
 }
 .name{
     font-weight: bolder;
     font-size: 64pt;
     text-align: center;
     background: linear-gradient(180deg, goldenrod, white);
-    display: block;
     margin-top: 0px;
     margin-bottom: 20px;
     padding: 150px;
@@ -16,15 +16,12 @@ body{
 div,.image{
     Width: 700px;
     margin: auto;
-    display: block;
 }
 .image{
     height: auto;
+    display: block;
 }
 
-div{
-    box-sizing: content-box;
-}
 
 .Ingredients{
     height: 530px;
